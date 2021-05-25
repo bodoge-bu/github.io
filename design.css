@@ -1,5 +1,5 @@
    body {
-     background-image: url(/www/space.jpg);
+     background-image: url(/github.io/space.jpg);
      background-repeat:repeat;
      background-size: 600px;
      background-attachment:fixed;
@@ -26,7 +26,6 @@
      margin-top: 10px;
      margin-left: 10px;
      margin-bottom: 23px;
-     color: white;
    }
 
 #href {color: white;}
