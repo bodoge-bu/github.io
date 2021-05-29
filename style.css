@@ -2,7 +2,7 @@
    body {
      background-image: url(https://media.istockphoto.com/videos/retro-8-bit-arcade-game-space-in-loop-video-id962000126?s=640x640);
      background-repeat:repeat;
-     background-size: 600px;
+     background-size: 100%;
      background-attachment:fixed;
        background-color: rgb(245, 245, 245);
        color: #0C0C0D;
