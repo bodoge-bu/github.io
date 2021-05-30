@@ -109,7 +109,9 @@
    .content-right {
      margin-left: 100px;
      width: 50%;
+     white-space: nowrap;
    }
+
    .news-heading {
        border: solid 1px;
        box-sizing: border-box;
