@@ -78,7 +78,7 @@
      width: 50%;
      height: 580px;
      border: solid 2px;
-     margin-left: 10px;
+     margin-left: 20px;
      background-color: rgb(245, 245, 245);
    }
 
@@ -109,7 +109,7 @@
 
 
    .content-right {
-     margin-left: 100px;
+     margin-left: 70px;
      width: 50%;
    }
 
@@ -144,7 +144,7 @@
    }
    .news-list-description {
      margin-bottom: 30px;
-     margin-left: 80px;
+     margin-left: 40px;
      
      
    }
