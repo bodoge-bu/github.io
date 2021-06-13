@@ -18,6 +18,9 @@
     text-align: center;
     }
 
+
+    p.sample1 {margin-left: 10%;}
+
    .nav-wrapper {
        margin: 0;
      padding: 0;
