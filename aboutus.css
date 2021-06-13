@@ -79,6 +79,16 @@
      background-color: rgba(255, 255, 255, 0.801);
    }
 
+   .content-left4 {
+     width: 90%;
+     height: 100%;
+     border: solid 2px;
+     margin-left: 3%;
+     margin-right: 3%;
+     margin-bottom: 2%;
+     background-color: rgba(255, 255, 255, 0.801);
+   }
+
    .profile {
      margin-bottom: 40px;
      margin-left: 2%;
@@ -96,6 +106,15 @@
    }
 
    .profile3 {
+     margin-bottom: 40px;
+     margin-left: 2%;
+     margin-right: 2%;
+     padding: 0px 20px;              /* [上下]、[左右]の順に余白を指定 */
+     align-items: center;
+   }
+
+
+   .profile4 {
      margin-bottom: 40px;
      margin-left: 2%;
      margin-right: 2%;
