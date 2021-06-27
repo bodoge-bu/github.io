@@ -1,0 +1,248 @@
+/* This is a CSS file */
+
+   body {
+     background-image: url(https://bodoge-bu.github.io/github.io/space.PNG);
+     background-repeat:repeat;
+     background-size: 600px;
+     background-attachment:fixed;
+       background-color: rgba(245, 245, 245, 0);
+       color: #0C0C0D;
+     display: block;
+     font-family: "HiraginoSans-W3"
+   }
+
+
+
+   .heading {
+      border-top: solid 5px rgb(0, 0, 0);
+     border-bottom: solid 5px rgb(0, 0, 0);
+     margin-top: 35px;
+     margin-bottom: 5px;
+     text-align: center;
+     display: block;
+     background-color: rgb(245, 245, 245);
+     font-size: 32px;
+     font-weight:700; 
+   }
+
+
+#href {color: rgba(255, 255, 255, 0);}
+
+   .content-left {
+     width: 90%;
+     height: 100%;
+     border: solid 2px;
+     margin-left: 3%;
+     margin-right: 3%;
+     display: block;
+     background-color: rgba(255, 255, 255, 0);
+   }
+
+
+     /* 全体設定 */
+* {
+  box-sizing: content-box;
+  display: inline;
+  }
+
+.popup-box {
+  }
+
+
+/* ポップアップウインドウの設定 */
+.popup {
+  background-color: #efefef;
+  box-shadow: 0 0 0 9999px rgba(0, 0, 0, .8);
+  display: none;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  margin: auto;
+  width: 80%;
+  height: 55vw;
+  overflow-y: scroll;
+}
+
+.popup1 {
+  background-color: #efefef;
+  box-shadow: 0 0 0 9999px rgba(0, 0, 0, .8);
+  display: none;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  margin: auto;
+  width: 70%;
+  height: 55vw;
+  overflow-y: scroll;
+}
+
+.popup2 {
+  background-color: #efefef;
+  box-shadow: 0 0 0 9999px rgba(0, 0, 0, .8);
+  display: none;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  margin: auto;
+  width: 70%;
+  height: 55vw;
+  overflow-y: scroll;
+}
+
+/* チェックボックスの初期設定 */
+#popup-on{
+  display: none;
+}
+
+#popup-on1{
+  display: none;
+}
+
+#popup-on2{
+  display: none;
+}
+
+/* チェックされたらポップアップウインドウを開く */
+#popup-on:checked + .popup{
+  display: block;
+}
+
+#popup-on1:checked + .popup1{
+  display: block;
+}
+
+#popup-on2:checked + .popup2{
+  display: block;
+}
+
+/* 閉じるアイコン（右上） */
+.icon-close{
+  background: #000;
+  color: #fff;
+  font-size: 30px;
+  padding: 0 10px;
+  position: absolute;
+  right: 0;
+}
+
+.icon-close1{
+  background: #000;
+  color: #fff;
+  font-size: 30px;
+  padding: 0 10px;
+  position: absolute;
+  right: 0;
+}
+
+.icon-close2{
+  background: #000;
+  color: #fff;
+  font-size: 30px;
+  padding: 0 10px;
+  position: absolute;
+  right: 0;
+}
+
+/* 閉じるボタン */
+.btn-close{
+  background: #000;
+  border-radius: 10px;
+  color: #fff;
+  padding: 10px;
+  cursor: pointer;
+  margin: 10px auto;
+  width: 95%;
+  text-align: center;
+}
+
+.btn-close1{
+  background: #000;
+  border-radius: 10px;
+  color: #fff;
+  padding: 10px;
+  cursor: pointer;
+  margin: 10px auto;
+  width: 95%;
+  text-align: center;
+}
+
+.btn-close2{
+  background: #000;
+  border-radius: 10px;
+  color: #fff;
+  padding: 10px;
+  cursor: pointer;
+  margin: 10px auto;
+  width: 95%;
+  text-align: center;
+}
+
+/* 開くボタン */
+.btn-open{
+  background: rgba(255, 255, 255, 0);
+  border-radius: 10px;
+  color: #fff;
+  padding: 10px;
+  cursor: pointer;
+  margin: 10px auto;
+  width: 95%;
+  text-align: center;
+
+    font-size: 100px
+  
+}
+
+.btn-open1{
+  background: rgba(255, 255, 255, 0);
+  border-radius: 10px;
+  color: #fff;
+  padding: 10px;
+  cursor: pointer;
+  margin: 10px auto;
+  width: 95%;
+  text-align: center;
+
+    font-size: 100px
+  
+}
+
+.btn-open2{
+  background: rgba(255, 255, 255, 0);
+  border-radius: 10px;
+  color: #fff;
+  padding: 10px;
+  cursor: pointer;
+  margin: 10px auto;
+  width: 95%;
+  text-align: center;
+
+    font-size: 100px
+  
+}
+
+/* ポップアップの内容 */
+.popup-content{
+  margin: 40px auto 40px auto;
+  width:100%;
+  text-align: center;
+}
+
+.popup-content1{
+  margin: 40px auto 40px auto;
+  width:100%;
+}
+
+.popup-content2{
+  margin: 40px auto 40px auto;
+  width:100%;
+}
+
+.center{
+	text-align: center;
+}
