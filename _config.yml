@@ -1,3 +1,4 @@
 theme: 
 plugins:
  - jekyll-sitemap
+sitemap: sitemap.xml
