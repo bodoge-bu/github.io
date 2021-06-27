@@ -6,11 +6,10 @@
        background-color: rgb(245, 245, 245);
        color: #0C0C0D;
      display: block;
-     font-family: "HiraginoSans-W3"
- 　　　　　　 -webkit-user-select:none; // テキスト長押しの選択ボックスを無効化
+     font-family: "HiraginoSans-W3" ;
+ 　　　　　　 -webkit-user-select:none; 
 }
 
-   }
 
 
 
