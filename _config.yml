@@ -1,4 +1,8 @@
 theme: jekyll-theme-minimal
 plugins:
  - jekyll-sitemap
-sitemap: sitemap.xml
+ 
+url: "https://bodoge-bu.github.io/github.io/"
+
+sitemap:
+    file: "/sitemap.xml"
