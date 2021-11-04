@@ -1,0 +1,63 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1, maximum-scale=1, user-scalable=no">
+    <meta http-equiv="Content-Security-Policy" content="default-src * data: gap: https://ssl.gstatic.com; style-src * 'unsafe-inline'; script-src * 'unsafe-inline' 'unsafe-eval'">
+    <link rel="stylesheet" href="components/loader.css">
+    <script src="components/loader.js"></script>
+    <link rel="stylesheet" href="css/about.css">
+
+      <!-- ホーム画面に追加したときの画像 -->
+  <link rel="apple-touch-icon" sizes="180x180" href="./assets/apple-touch-icon.png">
+
+  <!-- スマホに対応するためのViewPortの設定 -->
+  <meta name="viewport" content="target-densitydpi=device-dpi, width=950, maximum-scale=1.0, user-scalable=yes">
+
+  <!-- サイトアイコンの指定 -->
+  <link rel="icon" type="image/jpg" href="d_nice.png">
+
+  <!-- 電話番号などをリンクに変換されるのを防ぐ -->
+  <meta name="format-detection" content="email=no,telephone=no,address=no" />
+
+  <link rel="stylesheet" href="./about.css" /> <!-- CSSファイルを読み込む -->
+
+
+    <script>
+        //
+        // TODO: Write JavaScript code here
+        //
+    </script>
+</head>
+<body>
+    <!-- TODO: Please edit here -->
+    <div class="contents-wrapper">
+        <a href="home.html" ><font color="white"><b>◀︎ボドゲ部Home</b></font></a>
+      <div class="heading"><i>　　相模原支部終末時計　　</i></div>
+      <div class="contents-wrapper-inner">
+      <img src="d_water.png" alt="ロゴ" width="275" height="150">
+    <div class="nav-wrapper">
+      <div class="nav">
+        <div class="nav-content"><div class="nav-icon"></div>
+        <center>相模原キャンパスでも活動がしたい！との声が多くあがり、相模原支部を試運転中のボドゲ部。しかし、思ったよりも活動参加者数がおらず、はやくも解散の危機！？どうなる、相模原支部––––</br>
+        このページでは、相模原支部終末時計をご覧にいただけます。</br></br><span style="color:#B0B0BD">考え中〜。</span></center></br></br><small>
+        </small>
+        </div>
+        <div class="news-heading">
+              <br/>
+</div></div></div>
+        </br></br></br>
+
+<div class="content-left2">
+        
+        HP作成時の参考文献</br>
+        ・<a href="http://abehiroshi.la.coocan.jp/" ><font color="white">阿部寛のホームページ</font></a></br>
+        ・<a href="https://qiita.com/Michinosuke/items/ff696189ecd518da3d3a" ><font color="white">阿部寛と学ぶHTMLチュートリアル</font></a></br>
+        ・<a href="https://homepagenopro.com/html/css_popup.html" ><font color="white">Cssだけで実装!画像をクリックしてポップアップ表示する方法</font></a></br>
+        </div>
+
+
+          
+      </div>
+</body>
+</html>
