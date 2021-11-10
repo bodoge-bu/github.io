@@ -79,9 +79,9 @@
 
    .content-left {
      width: 50%;
-     height: 580px;
+     height: 600px;
      border: solid 2px;
-     margin-left: 10px;
+     margin-left: 20px;
      background-color: rgb(245, 245, 245);
    }
 
