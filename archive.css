@@ -171,6 +171,39 @@
   
 }
 
+.popup7 {
+  background-color: #efefef;
+  box-shadow: 0 0 0 9999px rgba(0, 0, 0, .8);
+  display: none;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  margin: auto;
+  width: 80%;
+  height: 70%;
+  overflow-y: scroll;
+  
+}
+
+.popup8 {
+  background-color: #efefef;
+  box-shadow: 0 0 0 9999px rgba(0, 0, 0, .8);
+  display: none;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  margin: auto;
+  width: 80%;
+  height: 70%;
+  overflow-y: scroll;
+  
+}
+
+
 /* チェックボックスの初期設定 */
 #popup-on{
   display: none;
@@ -200,6 +233,14 @@
   display: none;
 }
 
+#popup-on7{
+  display: none;
+}
+
+#popup-on8{
+  display: none;
+}
+
 /* チェックされたらポップアップウインドウを開く */
 #popup-on:checked + .popup{
   display: block;
@@ -226,6 +267,14 @@
 }
 
 #popup-on6:checked + .popup6{
+  display: block;
+}
+
+#popup-on7:checked + .popup7{
+  display: block;
+}
+
+#popup-on8:checked + .popup8{
   display: block;
 }
 
@@ -285,6 +334,24 @@
 }
 
 .icon-close6{
+  background: #000;
+  color: #fff;
+  font-size: 30px;
+  padding: 0 10px;
+  position: absolute;
+  right: 0;
+}
+
+.icon-close7{
+  background: #000;
+  color: #fff;
+  font-size: 30px;
+  padding: 0 10px;
+  position: absolute;
+  right: 0;
+}
+
+.icon-close8{
   background: #000;
   color: #fff;
   font-size: 30px;
@@ -361,6 +428,28 @@
 }
 
 .btn-close6{
+  background: #000;
+  border-radius: 10px;
+  color: #fff;
+  padding: 10px;
+  cursor: pointer;
+  margin: 10px auto;
+  width: 95%;
+  text-align: center;
+}
+
+.btn-close7{
+  background: #000;
+  border-radius: 10px;
+  color: #fff;
+  padding: 10px;
+  cursor: pointer;
+  margin: 10px auto;
+  width: 95%;
+  text-align: center;
+}
+
+.btn-close8{
   background: #000;
   border-radius: 10px;
   color: #fff;
@@ -466,6 +555,32 @@
     font-size: 100px
 }
 
+.btn-open7{
+  background: rgba(255, 255, 255, 0);
+  border-radius: 10px;
+  color: #fff;
+  padding: 10px;
+  cursor: pointer;
+  margin: 10px auto;
+  width: 95%;
+  text-align: center;
+
+    font-size: 100px
+}
+
+.btn-open8{
+  background: rgba(255, 255, 255, 0);
+  border-radius: 10px;
+  color: #fff;
+  padding: 10px;
+  cursor: pointer;
+  margin: 10px auto;
+  width: 95%;
+  text-align: center;
+
+    font-size: 100px
+}
+
 /* ポップアップの内容 */
 .popup-content{
   margin: 40px auto 40px auto;
@@ -502,6 +617,18 @@
 }
 
 .popup-content6{
+  margin: 40px auto 40px auto;
+  width:100%;
+  text-align: center;
+}
+
+.popup-content7{
+  margin: 40px auto 40px auto;
+  width:100%;
+  text-align: center;
+}
+
+.popup-content8{
   margin: 40px auto 40px auto;
   width:100%;
   text-align: center;
