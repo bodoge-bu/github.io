@@ -11,7 +11,13 @@
      font-family: "HiraginoSans-W3"
    }
 
-
+   .face-photo {
+     width: 100%;
+     align-items: center;
+     margin-top: 23px;
+     margin-left: 40px;
+     margin-bottom: 23px;
+   }
 
 
    .heading {
