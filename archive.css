@@ -14,7 +14,7 @@
 .face-photo {
      display: inline-block;
      align-items: start;
-	hight: width;
+	hight: auto;
 	width: 33%;
    }
 
