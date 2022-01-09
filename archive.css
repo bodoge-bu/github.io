@@ -11,6 +11,10 @@
      font-family: "HiraginoSans-W3"
    }
 
+.v-middle {
+  vertical-align: middle;
+}
+
    .face-photo {
      width: 100%;
      align-items: center;
