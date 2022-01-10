@@ -34,7 +34,7 @@
      background-color: rgb(245, 245, 245);
      font-size: 32px;
      font-weight:700; 
-   　　　position: absolute;
+   　　　position: relative;
    }
 
    .content-right {
@@ -61,7 +61,7 @@
      margin-top: 2%;
      margin-left: 3%;
      margin-bottom: 23px;
-    position: relative;
+    position: absolute;
    }
 
 .face-photo2 {
