@@ -59,7 +59,6 @@
 
 
    .content {
-     text-align: center;
      width: 90%;
      height: 100%;
      border: solid 0px;
@@ -223,13 +222,12 @@
    }
 
    .designer-comment-s {
-     text-align: center;
-      margin-top: 40px;
+     width: 90%;
+     margin-top: 40px;
      margin-bottom: 40px;
      margin-left: 2%;
      margin-right: 2%;
      padding: 0px 20px;              /* [上下]、[左右]の順に余白を指定 */
-     align-items: center;
       background-color: rgba(255, 255, 255, 0.601);
    }
 
