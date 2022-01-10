@@ -53,11 +53,8 @@
    }
 
 .face-photo2 {
-   max-width: 800px; /* 最大幅 */
-   min-width: 240px; /* 最小幅 */
+   width: 100%;
 }
-
-.face-photo2 img { width: 100%;}
 
 
 
