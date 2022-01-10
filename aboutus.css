@@ -157,7 +157,7 @@
      width: 90%;
      height: 100%;
      border: solid 0px;
-     margin-left: 3%;
+     margin-left: 4%;
      margin-right: 3%;
      margin-bottom: 2%;
      background-color: rgba(255, 255, 255, 0);
@@ -237,7 +237,7 @@
      width: 90%;
      margin-top: 40px;
      margin-bottom: 40px;
-     margin-left: 2%;
+     margin-left: 3%;
      margin-right: 2%;
      padding: 0px 20px;              /* [上下]、[左右]の順に余白を指定 */
       background-color: rgba(255, 255, 255, 0.601);
