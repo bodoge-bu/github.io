@@ -50,8 +50,10 @@
      margin-bottom: 23px;
    }
 
+
 .face-photo2 {
-  max-width: 800px
+  max-width: 800px;
+  text-align: center;
 }
 
 
