@@ -24,9 +24,7 @@
      margin-bottom: 30px;
    }
 
-.face-photo2 {
-   width: 100%;
-}
+
 
 
    .heading {
@@ -75,6 +73,10 @@
 .popup-box {
     
   }
+
+.face-photo2 {
+   width: 100%;
+}
 
 
 /* ポップアップウインドウの設定 */
