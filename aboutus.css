@@ -58,6 +58,7 @@
 
 
    .content {
+     text-align: center;
      width: 90%;
      height: 100%;
      border: solid 0px;
@@ -221,7 +222,8 @@
    }
 
    .designer-comment-s {
-     margin-top: 40px;
+     text-align: center;
+      margin-top: 40px;
      margin-bottom: 40px;
      margin-left: 2%;
      margin-right: 2%;
