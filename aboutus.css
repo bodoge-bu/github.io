@@ -53,13 +53,11 @@
    }
 
 .face-photo2 {
-   margin-left: 3%;
    max-width: 800px; /* 最大幅 */
    min-width: 240px; /* 最小幅 */
-   text-align: center;
 }
 
-.face-photo2 img { width: 100%; text-align: center;}
+.face-photo2 img { width: 100%;}
 
    .content {
      width: 90%;
