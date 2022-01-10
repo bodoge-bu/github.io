@@ -25,16 +25,6 @@
      font-weight:700; 
    }
 
-   .marketheading {
-      border-top: solid 5px rgb(0, 0, 0);
-     border-bottom: solid 5px rgb(0, 0, 0);
-     margin-top: 35px;
-     margin-bottom: 5px;
-     text-align: center;
-     background-color: rgb(245, 245, 245);
-     font-size: 32px;
-     font-weight:700; 
-   }
 
    .content-right {
      margin-left: 100px;
@@ -64,7 +54,11 @@
    }
 
 .face-photo2 {
-   max-width: 100%;
+   width: 100%;
+}
+
+.face-photo2 img {
+   width: 100%;
 }
 
 
@@ -237,7 +231,7 @@
      margin-bottom: 40px;
      margin-left: 3%;
      margin-right: 2%;
-     padding: 0px 20px;              /* [上下]、[左右]の順に余白を指定 */
+     padding: 20px 20px;              /* [上下]、[左右]の順に余白を指定 */
       background-color: rgba(255, 255, 255, 0.601);
    }
 
