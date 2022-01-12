@@ -70,6 +70,12 @@
      max-width: 800px;
    }
 
+.sizesentaku {
+     display: inline-block;
+     width: 100%;
+     max-width: 450px;
+   }
+
 
 
 .deme-photo {
