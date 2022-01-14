@@ -13,7 +13,6 @@
 
 
 
-
    .heading {
       border-top: solid 5px rgb(0, 0, 0);
      border-bottom: solid 5px rgb(0, 0, 0);
@@ -92,8 +91,6 @@
 }
 
 
-
-
 .deme-photo {
         display: inline-block;
      align-items: start;
@@ -103,6 +100,16 @@
        position: absolute;
    }
 
+.souryou {
+   margin-top: 5px;
+   margin-left: 5px;
+   margin-right: 5px;
+   margin-bottom: 5px;
+   float: left;
+   font-size: 17px;
+   font-family: "HiraginoSans-W6" 
+   
+}
 
 
 #href {color: white;}
