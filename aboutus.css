@@ -78,6 +78,10 @@
      max-width: 400px;
    }
 
+. clearbox {
+   clear:  both;
+}               /* 回り込みを解除する */
+
 
 .sizesentaku {
      display: inline-block;
