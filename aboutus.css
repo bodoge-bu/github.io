@@ -76,6 +76,12 @@
      max-width: 500px;
    }
 
+.float_test {
+    float:  left;               /* 横並びにする */
+    margin:  5px;               /* 要素と要素の間を開ける */
+    padding:  2px;             /* 余白指定 */
+}
+
 .sizesentaku {
      display: inline-block;
      width: 100%;
