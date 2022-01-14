@@ -73,7 +73,7 @@
 .goodstitle {
    margin-top: 15px;
    margin-bottom: -10px;
-   width: 100%;
+   width: 90%;
    font-size: 30px;
    font-weight: bold;
    letter-spacing: 0.1em
@@ -82,7 +82,7 @@
 .goodssubtitle {
    margin-top: -10px;
    margin-bottom: 5px;
-   width: 100%;
+   width: 90%;
    font-size: 20px;
 }
 
