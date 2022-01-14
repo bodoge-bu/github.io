@@ -111,6 +111,17 @@
    
 }
 
+   .shippinglist {
+     width: 90%;
+     height: 100%;
+     text-align: center;
+     border: solid 2px;
+     margin-left: 5%;
+     margin-right: 7%;
+     margin-bottom: 5%;
+     background-color: rgba(255, 255, 255, 0.801);
+   }
+
 
 #href {color: white;}
 
@@ -193,6 +204,8 @@
      margin-bottom: 5%;
      background-color: rgba(255, 255, 255, 0.801);
    }
+
+
 
    .designer-comment_b {
      width: 90%;
