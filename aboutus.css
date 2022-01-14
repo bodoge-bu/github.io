@@ -71,12 +71,16 @@
    }
 
 .goodstitle {
+   margin-top: 5px;
+   margin-bottom: -5px;
    width: 100%;
    font-size: 200%;
    font-weight: bold;
 }
 
 .goodssubtitle {
+   margin-top: -5px;
+   margin-bottom: 5px;
    width: 100%;
    font-size: 200%;
 }
