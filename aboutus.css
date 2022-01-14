@@ -73,10 +73,13 @@
 .goodstitle {
    font-size: 50%;
    font-weight: bold;
+   font-family:  "Yu Gothic"
 }
 
 .goodssubtitle {
    font-size: 35%;
+   font-weight: bold;
+   font-family:  "Yu Gothic"
 }
 
 
