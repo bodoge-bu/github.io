@@ -70,19 +70,14 @@
      max-width: 800px;
    }
 
-.senzaiphoto {
-    float:  left;               /* 横並びにする */
-    margin:  0px;               /* 要素と要素の間を開ける */
-    padding:  0px;             /* 余白指定 */
-    width: 200px;
-    max-width: 200px;
-   background-color: rgba(255, 255, 255, 0.801);
-   }
+.goodstitle {
+   font-size: 10%;
+   font-weight: bold;
+}
 
-.clearbox {
-   clear:  both;       /* 回り込みを解除する */
-}               
-
+.goodssubtitle {
+   font-size: 5%;
+}
 
 
 
