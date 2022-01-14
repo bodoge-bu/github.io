@@ -74,8 +74,8 @@
     float:  left;               /* 横並びにする */
     margin:  1px;               /* 要素と要素の間を開ける */
     padding:  2px;             /* 余白指定 */
-    width: 350px;
-    max-width: 400px;
+    width: 400px;
+    max-width: 450px;
    }
 
 .clearbox {
@@ -83,11 +83,7 @@
 }               
 
 
-.sizesentaku {
-     display: inline-block;
-     width: 100%;
-     max-width: 450px;
-   }
+
 
 
 
