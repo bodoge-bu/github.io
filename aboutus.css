@@ -71,11 +71,13 @@
    }
 
 .goodstitle {
+   width: 100%;
    font-size: 5000%;
    font-weight: bold;
 }
 
 .goodssubtitle {
+   width: 100%;
    font-size: 3500%;
 }
 
