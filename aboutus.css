@@ -76,6 +76,7 @@
     padding:  2px;             /* 余白指定 */
     width: 400px;
     max-width: 450px;
+   background-color: rgba(255, 255, 255, 0.801);
    }
 
 .clearbox {
