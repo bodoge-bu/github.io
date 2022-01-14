@@ -119,6 +119,7 @@
 
    .shippinglist {
      float: left;
+     position: relative; 
      width: 90%;
      height: 100%;
      text-align: center;
