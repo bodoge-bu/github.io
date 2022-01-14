@@ -74,7 +74,7 @@
        float:  left;               /* 横並びにする */
     margin:  2px;               /* 要素と要素の間を開ける */
     padding:  2px;             /* 余白指定 */
-     width: 400px;
+     max-width: 400px;
    }
 
 
