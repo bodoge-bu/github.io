@@ -87,6 +87,9 @@
    font-family: "HiraginoSans-W6" 
 }
 
+.clear_box {
+   clear: both;
+}
 
 
 
