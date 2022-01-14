@@ -103,8 +103,6 @@
 .souryou0 {
    width: 90%;
    font-size: 20px;
-   margin-left: 5%;
-   margin-right: 7%;
   text-align:center;
    font-family: "HiraginoSans-W6" 
    
@@ -112,7 +110,7 @@
 
 .souryou {
    display: inline-block;
-   width: 200px;
+   width: 150px;
    font-size: 20px;
   text-align: center;
    font-family: "HiraginoSans-W6" 
