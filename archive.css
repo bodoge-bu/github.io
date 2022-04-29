@@ -227,6 +227,101 @@
   
 }
 
+.popup9 {
+  background-color: #efefef;
+  box-shadow: 0 0 0 9999px rgba(0, 0, 0, .8);
+  display: none;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  margin: auto;
+  width: 80%;
+  height: 70%;
+  overflow-y: scroll;
+  
+}
+
+.popup10 {
+  background-color: #efefef;
+  box-shadow: 0 0 0 9999px rgba(0, 0, 0, .8);
+  display: none;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  margin: auto;
+  width: 80%;
+  height: 70%;
+  overflow-y: scroll;
+  
+}
+
+.popup11 {
+  background-color: #efefef;
+  box-shadow: 0 0 0 9999px rgba(0, 0, 0, .8);
+  display: none;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  margin: auto;
+  width: 80%;
+  height: 70%;
+  overflow-y: scroll;
+  
+}
+.popup12 {
+  background-color: #efefef;
+  box-shadow: 0 0 0 9999px rgba(0, 0, 0, .8);
+  display: none;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  margin: auto;
+  width: 80%;
+  height: 70%;
+  overflow-y: scroll;
+  
+}
+
+
+.popup13 {
+  background-color: #efefef;
+  box-shadow: 0 0 0 9999px rgba(0, 0, 0, .8);
+  display: none;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  margin: auto;
+  width: 80%;
+  height: 70%;
+  overflow-y: scroll;
+  
+}
+.popup14 {
+  background-color: #efefef;
+  box-shadow: 0 0 0 9999px rgba(0, 0, 0, .8);
+  display: none;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  margin: auto;
+  width: 80%;
+  height: 70%;
+  overflow-y: scroll;
+  
+}
+
 
 /* チェックボックスの初期設定 */
 #popup-on{
@@ -265,6 +360,25 @@
   display: none;
 }
 
+#popup-on9{
+  display: none;
+}
+#popup-on11{
+  display: none;
+}
+#popup-on8{
+  display: none;
+}
+#popup-on12{
+  display: none;
+}
+#popup-on13{
+  display: none;
+}
+#popup-on14{
+  display: none;
+}
+
 /* チェックされたらポップアップウインドウを開く */
 #popup-on:checked + .popup{
   display: block;
@@ -299,6 +413,24 @@
 }
 
 #popup-on8:checked + .popup8{
+  display: block;
+}
+#popup-on9:checked + .popup8{
+  display: block;
+}
+#popup-on10:checked + .popup8{
+  display: block;
+}
+#popup-on11:checked + .popup8{
+  display: block;
+}
+#popup-on12:checked + .popup8{
+  display: block;
+}
+#popup-on13:checked + .popup8{
+  display: block;
+}
+#popup-on14:checked + .popup8{
   display: block;
 }
 
@@ -376,6 +508,54 @@
 }
 
 .icon-close8{
+  background: #000;
+  color: #fff;
+  font-size: 30px;
+  padding: 0 10px;
+  position: absolute;
+  right: 0;
+}
+.icon-close9{
+  background: #000;
+  color: #fff;
+  font-size: 30px;
+  padding: 0 10px;
+  position: absolute;
+  right: 0;
+}
+.icon-close10{
+  background: #000;
+  color: #fff;
+  font-size: 30px;
+  padding: 0 10px;
+  position: absolute;
+  right: 0;
+}
+.icon-close11{
+  background: #000;
+  color: #fff;
+  font-size: 30px;
+  padding: 0 10px;
+  position: absolute;
+  right: 0;
+}
+.icon-close12{
+  background: #000;
+  color: #fff;
+  font-size: 30px;
+  padding: 0 10px;
+  position: absolute;
+  right: 0;
+}
+.icon-close13{
+  background: #000;
+  color: #fff;
+  font-size: 30px;
+  padding: 0 10px;
+  position: absolute;
+  right: 0;
+}
+.icon-close14{
   background: #000;
   color: #fff;
   font-size: 30px;
@@ -474,6 +654,66 @@
 }
 
 .btn-close8{
+  background: #000;
+  border-radius: 10px;
+  color: #fff;
+  padding: 10px;
+  cursor: pointer;
+  margin: 10px auto;
+  width: 95%;
+  text-align: center;
+}
+.btn-close9{
+  background: #000;
+  border-radius: 10px;
+  color: #fff;
+  padding: 10px;
+  cursor: pointer;
+  margin: 10px auto;
+  width: 95%;
+  text-align: center;
+}
+.btn-close10{
+  background: #000;
+  border-radius: 10px;
+  color: #fff;
+  padding: 10px;
+  cursor: pointer;
+  margin: 10px auto;
+  width: 95%;
+  text-align: center;
+}
+.btn-close11{
+  background: #000;
+  border-radius: 10px;
+  color: #fff;
+  padding: 10px;
+  cursor: pointer;
+  margin: 10px auto;
+  width: 95%;
+  text-align: center;
+}
+.btn-close12{
+  background: #000;
+  border-radius: 10px;
+  color: #fff;
+  padding: 10px;
+  cursor: pointer;
+  margin: 10px auto;
+  width: 95%;
+  text-align: center;
+}
+.btn-close13{
+  background: #000;
+  border-radius: 10px;
+  color: #fff;
+  padding: 10px;
+  cursor: pointer;
+  margin: 10px auto;
+  width: 95%;
+  text-align: center;
+}
+.btn-close14{
   background: #000;
   border-radius: 10px;
   color: #fff;
@@ -604,6 +844,79 @@
 
     font-size: 100px
 }
+.btn-open9{
+  background: rgba(255, 255, 255, 0);
+  border-radius: 10px;
+  color: #fff;
+  padding: 10px;
+  cursor: pointer;
+  margin: 10px auto;
+  width: 95%;
+  text-align: center;
+
+    font-size: 100px
+}
+.btn-open10{
+  background: rgba(255, 255, 255, 0);
+  border-radius: 10px;
+  color: #fff;
+  padding: 10px;
+  cursor: pointer;
+  margin: 10px auto;
+  width: 95%;
+  text-align: center;
+
+    font-size: 100px
+}
+.btn-open11{
+  background: rgba(255, 255, 255, 0);
+  border-radius: 10px;
+  color: #fff;
+  padding: 10px;
+  cursor: pointer;
+  margin: 10px auto;
+  width: 95%;
+  text-align: center;
+
+    font-size: 100px
+}
+.btn-open12{
+  background: rgba(255, 255, 255, 0);
+  border-radius: 10px;
+  color: #fff;
+  padding: 10px;
+  cursor: pointer;
+  margin: 10px auto;
+  width: 95%;
+  text-align: center;
+
+    font-size: 100px
+}
+.btn-open13{
+  background: rgba(255, 255, 255, 0);
+  border-radius: 10px;
+  color: #fff;
+  padding: 10px;
+  cursor: pointer;
+  margin: 10px auto;
+  width: 95%;
+  text-align: center;
+
+    font-size: 100px
+}
+.btn-open14{
+  background: rgba(255, 255, 255, 0);
+  border-radius: 10px;
+  color: #fff;
+  padding: 10px;
+  cursor: pointer;
+  margin: 10px auto;
+  width: 95%;
+  text-align: center;
+
+    font-size: 100px
+}
+
 
 /* ポップアップの内容 */
 .popup-content{
@@ -653,6 +966,36 @@
 }
 
 .popup-content8{
+  margin: 40px auto 40px auto;
+  width:100%;
+  text-align: center;
+}
+.popup-content9{
+  margin: 40px auto 40px auto;
+  width:100%;
+  text-align: center;
+}
+.popup-content10{
+  margin: 40px auto 40px auto;
+  width:100%;
+  text-align: center;
+}
+.popup-content11{
+  margin: 40px auto 40px auto;
+  width:100%;
+  text-align: center;
+}
+.popup-content12{
+  margin: 40px auto 40px auto;
+  width:100%;
+  text-align: center;
+}
+.popup-content13{
+  margin: 40px auto 40px auto;
+  width:100%;
+  text-align: center;
+}
+.popup-content14{
   margin: 40px auto 40px auto;
   width:100%;
   text-align: center;
