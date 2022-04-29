@@ -363,10 +363,11 @@
 #popup-on9{
   display: none;
 }
-#popup-on11{
+
+#popup-on10{
   display: none;
 }
-#popup-on8{
+#popup-on11{
   display: none;
 }
 #popup-on12{
@@ -378,6 +379,7 @@
 #popup-on14{
   display: none;
 }
+
 
 /* チェックされたらポップアップウインドウを開く */
 #popup-on:checked + .popup{
@@ -415,22 +417,22 @@
 #popup-on8:checked + .popup8{
   display: block;
 }
-#popup-on9:checked + .popup8{
+#popup-on9:checked + .popup9{
   display: block;
 }
-#popup-on10:checked + .popup8{
+#popup-on10:checked + .popup10{
   display: block;
 }
-#popup-on11:checked + .popup8{
+#popup-on11:checked + .popup11{
   display: block;
 }
-#popup-on12:checked + .popup8{
+#popup-on12:checked + .popup12{
   display: block;
 }
-#popup-on13:checked + .popup8{
+#popup-on13:checked + .popup13{
   display: block;
 }
-#popup-on14:checked + .popup8{
+#popup-on14:checked + .popup14{
   display: block;
 }
 
